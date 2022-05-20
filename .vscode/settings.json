@@ -1,0 +1,32 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "rollup.config.js": true,
+        "README.md": true,
+        ".gitignore": true,
+        "scripts": true,
+        ".vscode": true,
+        "package.json": true,
+        "yarn.lock": true,
+        "node_modules": true,
+        "src/main.js": true,
+        "public": true
+    },
+    "hide-files.files": [
+        "rollup.config.js",
+        "README.md",
+        ".gitignore",
+        "scripts",
+        ".vscode",
+        "package.json",
+        "yarn.lock",
+        "node_modules",
+        "src/main.js",
+        "public"
+    ]
+}
